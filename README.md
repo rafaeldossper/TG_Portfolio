@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Olá, me chamo Rafael dos Santos Pereira, atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FATEC - Prof.Jessen Vidal de São José dos Campos e estagiando na área de Desenvolvimento Web na empresa ENACOM.<br> 
+Olá, me chamo Rafael dos Santos Pereira, atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FATEC - Prof.Jessen Vidal de São José dos Campos e estagiário na área de Desenvolvimento Web na empresa ENACOM.<br> 
 Neste documento está reunido os APIs, projetos integradores propostos durante o curso na FATEC, realizados em parceria com as empresas.<br /> 
 
 
