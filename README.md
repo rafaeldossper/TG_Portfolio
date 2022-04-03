@@ -23,8 +23,8 @@ No primeiro projeto integrador proposto foi desenvolvido um aplicativo mobile de
 
 
 ### Parceiro Acadêmico  
-
-Prof. Jean Carlos Lourenço Costa, disciplina de Programação em Microinformática. (FATEC - Prof. Jessen Vidal)<body/>
+##### FATEC - Prof. Jessen Vidal
+Prof. Jean Carlos Lourenço Costa, disciplina de Programação em Microinformática. <body/>
 
 ### Tecnologias Utilizadas
 Foram utilizadas as plataformas Kodular/App Inventor no desenvolvimento do aplicativo e o Firebase para o armazenamento e fornecimento de dados.
