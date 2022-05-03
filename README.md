@@ -2,7 +2,7 @@
   <div align="center">
     <h1>Rafael dos Santos Pereira</h1>
     <kbd><img src="https://avatars.githubusercontent.com/rafaeldossper" width="200px" height="200px"/></kbd>
-    <p><a href="https://www.linkedin.com/in/rafaeldossper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+    
   </div>
 </body>
 
@@ -72,7 +72,6 @@ A principal soft skill desenvolvida foi a comunicação, essencial para a minha 
   
   
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
 ## Contatos
 <p align="justify">
