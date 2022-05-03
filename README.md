@@ -45,3 +45,40 @@ Aprendi sobre a criação e utilização do banco de dados, assim como a lógica
 
 ### Soft Skills
 A principal soft skill desenvolvida foi a comunicação, essencial para a minha contribuição com a equipe, levando em consideração que tivemos que migrar para o ensino EAD em circunstâncias da pandemia, precisavamos manter clareza na nossa comunicação para que pudéssemos trabalhar em equipe no desenvolvimento do projeto.
+
+</details>  
+<details>
+  <summary>Em 2020-2</summary>
+
+  </details>
+   
+  <details>
+  <summary>Em 2021-1</summary>
+  
+  </details>
+  
+  <details>
+  <summary>Em 2021-2</summary>
+  
+  </details>
+  
+  <details>
+  <summary>Em 2022-1</summary>
+  
+  
+  </details>
+  
+  
+  
+  
+## Meus Principais Conhecimentos
+Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+
+## Contatos
+<p align="justify">
+                     <a href="https://www.linkedin.com/in/rafaeldossper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <br>
+  <a href="https://github.com/rafaeldossper"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a>
+              </p>
+
+  
+
