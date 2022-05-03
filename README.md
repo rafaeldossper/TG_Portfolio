@@ -23,7 +23,9 @@ No primeiro projeto integrador proposto foi desenvolvido um aplicativo mobile de
 
 
 ### Parceiro Acadêmico  
-##### FATEC - Prof. Jessen Vidal
+<p align="justify">
+                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
+              </p>
 Prof. Jean Carlos Lourenço Costa, disciplina de Programação em Microinformática. <body/>
 
 ### Tecnologias Utilizadas
@@ -56,8 +58,9 @@ descrição do proj
 
 
 ### Parceiro Acadêmico  
-##### FATEC - Prof. Jessen Vidal
-Nomes
+<p align="justify">
+                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
+              </p>
 
 ### Tecnologias Utilizadas
 
@@ -86,8 +89,9 @@ descrição do proj
 
 
 ### Parceiro Acadêmico  
-##### FATEC - Prof. Jessen Vidal
-Nomes
+<p align="justify">
+                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
+              </p>
 
 ### Tecnologias Utilizadas
 
@@ -115,8 +119,9 @@ descrição do proj
 
 
 ### Parceiro Acadêmico  
-##### FATEC - Prof. Jessen Vidal
-Nomes
+<p align="justify">
+                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
+              </p>
 
 ### Tecnologias Utilizadas
 
@@ -144,16 +149,19 @@ descrição do proj
 
 
 ### Parceiro Acadêmico  
-##### FATEC - Prof. Jessen Vidal
-Nomes
+<p align="justify">
+                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
+              </p>
 
 ### Tecnologias Utilizadas
 
-- #### Tecnologia 1
-...
+  - #### NodeJS
+  ...
 
- - #### Tecnologia 2
-...
+  - #### MongoDB
+  ...
+  - #### React Native
+  ...
   
 ### Contribuições Pessoais
 ...
