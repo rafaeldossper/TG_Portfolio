@@ -49,22 +49,120 @@ A principal soft skill desenvolvida foi a comunicação, essencial para a minha 
 </details>  
 <details>
   <summary>Em 2020-2</summary>
+  
+   ## Nome proj...
+  
+descrição do proj
+
+
+### Parceiro Acadêmico  
+##### FATEC - Prof. Jessen Vidal
+Nomes
+
+### Tecnologias Utilizadas
+
+- #### Tecnologia 1
+...
+
+ - #### Tecnologia 2
+...
+  
+### Contribuições Pessoais
+...
+  
+### Hard Skills
+...
+
+### Soft Skills
+...
 
   </details>
    
   <details>
   <summary>Em 2021-1</summary>
+     ## Nome proj...
   
+descrição do proj
+
+
+### Parceiro Acadêmico  
+##### FATEC - Prof. Jessen Vidal
+Nomes
+
+### Tecnologias Utilizadas
+
+- #### Tecnologia 1
+...
+
+ - #### Tecnologia 2
+...
+  
+### Contribuições Pessoais
+...
+  
+### Hard Skills
+...
+
+### Soft Skills
+...
   </details>
   
   <details>
   <summary>Em 2021-2</summary>
+     ## Nome proj...
   
+descrição do proj
+
+
+### Parceiro Acadêmico  
+##### FATEC - Prof. Jessen Vidal
+Nomes
+
+### Tecnologias Utilizadas
+
+- #### Tecnologia 1
+...
+
+ - #### Tecnologia 2
+...
+  
+### Contribuições Pessoais
+...
+  
+### Hard Skills
+...
+
+### Soft Skills
+...
   </details>
   
   <details>
   <summary>Em 2022-1</summary>
+     ## Nome proj...
   
+descrição do proj
+
+
+### Parceiro Acadêmico  
+##### FATEC - Prof. Jessen Vidal
+Nomes
+
+### Tecnologias Utilizadas
+
+- #### Tecnologia 1
+...
+
+ - #### Tecnologia 2
+...
+  
+### Contribuições Pessoais
+...
+  
+### Hard Skills
+...
+
+### Soft Skills
+...
   
   </details>
   
