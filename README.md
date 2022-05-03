@@ -173,9 +173,12 @@ Nomes
 
 ## Contatos
 <p align="justify">
-                     <a href="https://www.linkedin.com/in/rafaeldossper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <br>
-  <a href="https://github.com/rafaeldossper"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a>
-              </p>
+  <a href="rafahsanttos96@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=red"/></a> <br>
+  <a href="https://github.com/rafaeldossper"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> <br>
+  <a href="https://www.linkedin.com/in/rafaeldossper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+              
+             
+           
 
   
 
